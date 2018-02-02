@@ -1,2 +1,3 @@
 testfile
-edit testfile/
+edit testfile.
+revertting test
